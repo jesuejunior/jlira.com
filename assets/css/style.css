@@ -451,6 +451,10 @@ h1, h2, h3, h4, h5, h6 {
 	right: 0;
 	position: relative;
 }
+.project .photo {
+	width: 300px;
+	height: 273px;
+}
 .project:hover .photo {
   opacity: 10;
   filter: alpha(opacity=4000);
